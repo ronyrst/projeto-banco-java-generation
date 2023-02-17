@@ -1,3 +1,14 @@
+# Pastas gerada pelo Eclipse
+.metadata/
+bin/
+.settings/
+
+# Arquivos gerados pelo Eclipse
+.classpath
+.project
+
+#===========
+
 # Compiled class file
 *.class
 
